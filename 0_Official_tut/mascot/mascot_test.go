@@ -2,7 +2,7 @@ package mascot_test
 
 import (
 	"testing"
-	"example.com/1_official_tut/mascot"
+	"example.com/0_Official_tut/mascot"
 )
 
 

@@ -2,12 +2,11 @@ package main
 
 import (
 	"fmt"
-
-	pack "example.com/1_official_tut/mascot"
+	"example.com/0_Official_tut/mascot"
 	"rsc.io/quote"
 )
 
 func main() {
-	fmt.Println(pack.BestMascot())
+	fmt.Println(mascot.BestMascot())
 	fmt.Println(quote.Go())
 }
