@@ -7,7 +7,7 @@ As not to ocupy too many repositories with "tutorials" I've decided to group the
 # Tutorials Completed
 
 The branches, i.e. tutorials, that I have completed so far are as follows:  
-1. [Google_Open_Source-Getting_started_with_VS_Code_Go]() - [source](https://www.youtube.com/watch?v=1MXIGYrMk80) | Completed: 
+1. [Google_Open_Source-Getting_started_with_VS_Code_Go]() - [source](https://www.youtube.com/watch?v=1MXIGYrMk80) | Completed: 12/03/2021
 <!-- 2. []() -->
 
 ---
