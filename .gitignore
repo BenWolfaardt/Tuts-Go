@@ -1,3 +1,0 @@
-# Ignore the bazel symlinks
-/go/go.mod
-/go/go.sum
