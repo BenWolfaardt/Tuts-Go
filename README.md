@@ -8,7 +8,7 @@ As not to ocupy too many repositories with "tutorials" I've decided to group the
 
 The branches, i.e. tutorials, that I have completed so far are as follows:  
 1. [Google_Open_Source-Getting_started_with_VS_Code_Go](https://github.com/BenWolfaardt/Tuts-Go/tree/01-Google_Open_Source-Getting_started_with_VS_Code_Go) - [source](https://www.youtube.com/watch?v=1MXIGYrMk80) | Completed: 12/03/2021
-<!-- 2. []() -->
+2. [Google-Protobuf_example](https://github.com/BenWolfaardt/Tuts-Go/tree/02-Google-Protobuf_example) | Completed: 24/11/2021
 
 ---
 
