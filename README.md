@@ -17,9 +17,9 @@ gRPC is a modern open source high performance **Remote Procedure Call (RPC)** fr
 * [gRPC - Documentation](https://grpc.io/docs/)
 * [gRPC - Go Documentation](https://grpc.io/docs/languages/go/)
 
-# Working With [Protobuf]()
+# Working With Protobuf
 
-Using [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/gotutorial)
+Using [Protocol Buffer Basics tutorial](https://developers.google.com/protocol-buffers/docs/gotutorial)
 
 Build the Go samples with "make go".  This creates the following
 executable files in the current directory:
