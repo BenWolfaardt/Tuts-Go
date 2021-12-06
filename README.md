@@ -40,7 +40,7 @@ is created if it does not exist.  To view the data, run:
 
 # Install & Setup
 
-1. Follow instructions in the [README.md](https://github.com/protocolbuffers/protobuf/blob/master/README.md) (from the `protobuf` GitHub [repo](https://github.com/protocolbuffers/protobuf/))to install protoc. Then
+1. Follow instructions in the [README.md](https://github.com/protocolbuffers/protobuf/blob/master/README.md) (from the `protobuf` GitHub [repo](https://github.com/protocolbuffers/protobuf/)) to install protoc. Then
    1. Download the Ubuntu x86-64 version from: [releases](https://github.com/protocolbuffers/protobuf/releases)
    2. Extract and paste in `usr/local/bin` and usr`/local/include`
 2. install the Go protoc plugin (protoc-gen-go)
